@@ -2,4 +2,4 @@
 
 URL Shortener made in Flask, React and MongoDB.
 
-URL App: http://petiturl.fr:3000/
+URL Web App: http://petiturl.fr:3000/
