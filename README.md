@@ -1,4 +1,4 @@
-# petit-URL
+# Petit URL
 
 URL Shortener made in Flask, React and MongoDB.
 
